@@ -1,5 +1,5 @@
 import streamlit as st
-st.title('나의 첫 스트림릿 웹앱')
+st.title('나의 첫 스트림릿 웹앱!')
 name = st.text_input('이름을 입력해주세요 : ')
 mbti = st.selectbox('MBTI를 선택해주세요', ['ENTJ','INTP'])
 
